@@ -1,0 +1,9 @@
+{
+  "name": "最新版12月8日 1.0版AI白名单后端管理系统",
+  "description": "A comprehensive digital platform for the National Primary and Secondary School Language Literacy Competition, featuring registration, competition management, and AI-powered creative tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
